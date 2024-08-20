@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(243, 235, 161);
+}
+
+.pay-button {
+    max-width: 30%;
+    background-color: rgb(86, 86, 237);
+    color: whitesmoke;
+    border-radius: 5px;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    box-shadow: 1px 1px 1px 1px rgba(117, 115, 115, 0.534);
+
+}
+
+.card-img {
+    width: 100%;
+    height: 10em;
+    object-fit: cover;
+}
